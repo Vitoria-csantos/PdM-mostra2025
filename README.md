@@ -1,2 +1,5 @@
 # PdM-mostra2025
-Repositório para o projeto de PdM referente à mostra cultural 2025.
+<p>Vitória Colussi dos Santos</p>
+<p>Sabrina Caetano Nascimento</p>
+
+
