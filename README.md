@@ -6,4 +6,4 @@
 <h3>Descrição</h3>
 <p>Protótipo de interface mobile da Mostra Cultural 2025 referente aos jogos usados como inspiração.</p>
 <h3>Link para a wiki</h3>
-<p>https://github.com/Vitoria-csantos/PdM-mostra2025.wiki.git</p>
+<p>https://github.com/Vitoria-csantos/PdM-mostra2025.wiki.git](https://github.com/Vitoria-csantos/PdM-mostra2025/wiki</p>
