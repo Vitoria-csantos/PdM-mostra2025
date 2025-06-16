@@ -24,16 +24,7 @@ class NavBar extends StatelessWidget {
               Navigator.pop(context); // Fecha o drawer
             },
           ),
-          ListTile(
-            leading: const Icon(Icons.games),
-            title: const Text('Ir para Segunda Tela'),
-            onTap: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) => const SecondScreen()),
-              );
-            },
-          ),
+          
         ],
       ),
     );

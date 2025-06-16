@@ -40,6 +40,16 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Text(
           'Bem-vindo à tela principal!',
           style: TextStyle(fontSize: 20),
+          ListTile(
+            leading: const Icon(Icons.games),
+            title: const Text('Ir para Segunda Tela'),
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const SecondScreen()),
+              );
+            },
+          ),
         ),
       ),
     );
